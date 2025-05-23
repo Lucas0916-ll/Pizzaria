@@ -1,0 +1,83 @@
+body{
+    background-color: rgb(131, 9, 9);
+}
+.pizza1{
+    height: 400px;
+    width: 32%;
+    background-color: rgb(66, 66, 66);
+    display: inline-block;
+    border-radius: 10%;
+    
+}
+.pizza1{
+    transition: all 0,75s;
+}
+.pizza1:hover{
+    height: 415px;
+    width: 34%;
+    background-color: rgb(66, 66, 66);
+    border-width: 5px;
+    border-color: rgb(214, 208, 208);
+    border-style: solid;
+    display: inline-block;
+    border-radius: 10%;
+}
+.pizza2{
+    height: 400px;
+    width: 32%;
+    background-color: rgb(66, 66, 66);
+    display: inline-block;
+    border-radius: 10%;
+}
+.pizza2{
+    transition: all 0,5s;
+}
+.pizza2:hover{
+    height: 415px;
+    width: 34%;
+    background-color: rgb(66, 66, 66);
+    border-width: 5px;
+    border-color: rgb(214, 208, 208);
+    border-style: solid;
+    display: inline-block;
+     border-radius: 10%;
+}
+.pizza3{
+    height: 400px;
+    width: 32%;
+    background-color: rgb(66, 66, 66);
+    display: inline-block;
+    border-radius: 10%;
+}
+.pizza3{
+    transition: all 0,5s;
+}
+.pizza3:hover{
+    height: 415px;
+    width: 34%;
+    background-color: rgb(66, 66, 66);
+    border-width: 5px;
+    border-color: rgb(214, 208, 208);
+    border-style: solid;
+    display: inline-block;
+    border-radius: 10%;
+}
+h2{
+  color: white; 
+  font-family: arial; 
+}
+h3{
+    color: white;
+    font-family: arial;
+}
+img{
+    border-radius: 10%;
+    margin-left: 20%;
+}
+h1{
+    color: white;
+    font-family: arial;
+    background-color: black;
+    height: 120px;
+    text-align: center;
+}
